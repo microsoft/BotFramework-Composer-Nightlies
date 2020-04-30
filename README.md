@@ -1,4 +1,10 @@
 
+# Nightly Releases of [Bot Framework Composer](https://github.com/microsoft/BotFramework-Composer)
+
+This repository is where nightly releases of [Bot Framework Composer](https://github.com/microsoft/BotFramework-Composer) are published.
+
+**Note:** These releases aren't considered stable and contain the latest features in Composer.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
